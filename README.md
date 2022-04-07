@@ -189,7 +189,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [instagram-url]: http://instagram.com/wiz_codable/
 [twitter-url]: https://twitter.com/codablecode
 [github-url]: http://github.com/wiz-boc/
-[product-screenshot1]: images/mockup1.jpg
+[product-screenshot1]: images/mockup1.png
 [product-screenshot2]: images/mockup2.png
 [product-screenshot3]: images/mockup3.png
 [product-screenshot]: images/screenshot.png
